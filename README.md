@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ubaid
 
-Welcome to my GitHub! I'm a **Full-Stack Developer** with 2+ years of experience specializing in building scalable, high-performance web applications using **Next.js** and the **MERN stack**.
+Welcome to my GitHub! I'm a **Full-Stack Developer** with 3+ years of experience specializing in building scalable, high-performance web applications using **Next.js** and the **MERN stack**.
 
 ## 👨‍💻 About Me
 - 🌟 Passionate about delivering **high-quality code** that balances functionality and user experience.
